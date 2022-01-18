@@ -11,16 +11,16 @@ Fluence provides the infrastructure and tools to enable decentralized compute fo
 
 [Schelling Points](https://en.wikipedia.org/wiki/Focal_point_(game_theory)), postulated by Thomas Schelling, are a game theoretic construct that postulates that people can arrive at a cooperative solution without communication by converging on a prominent, i.e. focal, point, such as a landmark. Hence, focal points are contextual. In the context of Web3, many different people have been converging on variety of focal points over the past short years ranging from consensus algorithms to cryptography solutions to organizational patterns. This plethora of innovation speaks for the inspiration arising from the decentralized context and the quality of the people involved in the space.
 
-### Beginner's Bounty -- 5 x USD ???
+### Beginner's Bounty -- 5 x USD 500.00
 
 Use [Fluence JS](https://github.com/fluencelabs/fluence-js) or [Marine Rust SDK](https://github.com/fluencelabs/marine-rs-sdk) to create integrations to custodial wallets/APIs of the [OpenSea](https://docs.opensea.io/) and [Rarible](https://docs.rarible.org/) NFT marketplaces. Use Aqua to create workflow(s) to find, fetch, and display NFTs from each of the marketplaces.
 
-### Intermediate Bounty -- 1 x USD ???
+### Intermediate Bounty -- 1 x USD 1,000.00
 
 Use Fluence and Aqua to create a "super wallet" to create/mint, fetch/display and buy/sell/bid NFTs from at least two NFT marketsplaces including OpenSea](https://docs.opensea.io/) and [Rarible](https://docs.rarible.org/).
 
 
-### Advanced Bounty -- 1 x USD ???
+### Advanced Bounty -- 1 x USD 2,000.00
 
 Use Fluence and Aqua to create am NFT wallet for at least the [Ethereum](https://ethereum.org) and [Polygon](https://polygon.technology/) chains. The wallet may be custodial or non-custodial and should allow users to create/mint, read/display and buy/sell NFTs. For the trading functionality, you may reuse your integration services from the previous challenges to provide your wallet users to choose from at least to marketplaces.
 
