@@ -17,7 +17,7 @@ Use [Fluence JS](https://github.com/fluencelabs/fluence-js) or [Marine Rust SDK]
 
 ### Intermediate Bounty -- 1 x USD 1,000.00
 
-Use Fluence and Aqua to create a "super wallet" to create/mint, fetch/display and buy/sell/bid NFTs from at least two NFT marketsplaces including [OpenSea](https://docs.opensea.io/) and [Rarible](https://docs.rarible.org/).
+Use Fluence and Aqua to create a "super wallet" to create/mint, fetch/display and buy/sell/bid NFTs from at least two NFT marketplaces including [OpenSea](https://docs.opensea.io/) and [Rarible](https://docs.rarible.org/).
 
 
 ### Advanced Bounty -- 1 x USD 2,000.00
