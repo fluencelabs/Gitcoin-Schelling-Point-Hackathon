@@ -17,12 +17,12 @@ Use [Fluence JS](https://github.com/fluencelabs/fluence-js) or [Marine Rust SDK]
 
 ### Intermediate Bounty -- 1 x USD 1,000.00
 
-Use Fluence and Aqua to create a "super wallet" to create/mint, fetch/display and buy/sell/bid NFTs from at least two NFT marketsplaces including OpenSea](https://docs.opensea.io/) and [Rarible](https://docs.rarible.org/).
+Use Fluence and Aqua to create a "super wallet" to create/mint, fetch/display and buy/sell/bid NFTs from at least two NFT marketsplaces including [OpenSea](https://docs.opensea.io/) and [Rarible](https://docs.rarible.org/).
 
 
 ### Advanced Bounty -- 1 x USD 2,000.00
 
-Use Fluence and Aqua to create am NFT wallet for at least the [Ethereum](https://ethereum.org) and [Polygon](https://polygon.technology/) chains. The wallet may be custodial or non-custodial and should allow users to create/mint, read/display and buy/sell NFTs. For the trading functionality, you may reuse your integration services from the previous challenges to provide your wallet users to choose from at least to marketplaces.
+Use Fluence and Aqua to create an NFT wallet for at least the [Ethereum](https://ethereum.org) and [Polygon](https://polygon.technology/) chains. The wallet may be custodial or non-custodial and should allow users to create/mint, read/display and buy/sell NFTs. For the trading functionality, you may reuse your integration services from the previous challenges to provide your wallet users to choose from at least to marketplaces.
 
 ### Best Use Of Fluence And Aqua In Your DApp -- 1 x USD 2,000
 
