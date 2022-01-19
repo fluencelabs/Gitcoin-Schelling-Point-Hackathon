@@ -53,3 +53,14 @@ Fluence has a variety of components and building blocks available to accelerate 
 * [Discord](https://fluence.chat)
 * [Fluence Youtube](https://www.youtube.com/channel/UC3b5eFyKRFlEMwSJ1BTjpbw)
 * [Book A Meeting With The Team](https://calendly.com/fluencehack/)
+
+### Community
+
+* Web3
+  - [Aqua-Eth](https://github.com/ben-razor/aqua-eth)
+  - [Web3](https://github.com/ntrotner/web3-exposed-to-fluence)
+* [NFT](https://github.com/tejas-kothari/BazaarEx) example
+* DID
+  * [SelfId](https://github.com/fsy412/SelfId-Auth-Fluence)
+  * [Identity Link](https://github.com/synycboom/identity-link-api-aqua)
+* [Web3, Ethereum and Elasticsearch](https://github.com/Joera/gitcoin11-fluence) example
