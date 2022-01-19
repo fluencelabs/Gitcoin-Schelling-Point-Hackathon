@@ -26,11 +26,11 @@ Use Fluence and Aqua to create an NFT wallet for at least the [Ethereum](https:/
 
 ### Best Use Of Fluence And Aqua In Your DApp -- 1 x USD 2,000
 
-Already got a DApp in mind and can use some off-chain decentraliation ? Use Fluence and Aqua
+Already got a DApp in mind and can use some off-chain decentralization? Use Fluence and Aqua to, for example:
 
-* to power a decentralized NFT creation and storage solution using, for example, plain IPFS or NFT.storage. We are especially excited about using Fluence compute to enable dynamic NFTs.
-* to create a multi source DEX price oracle. Fluence compute and Aqua are uniquely suited to facilitate (cross-chain) querying and processing of streams, such as the computation of buy/sell orders and optimal order-split and routing to DExs.
-* to enable off-chain DAOs
+* power a decentralized NFT creation and storage solution using, for example, plain IPFS or NFT.storage. We are especially excited about using Fluence compute to enable dynamic NFTs.
+* create a multi source DEX price oracle. Fluence compute and Aqua are uniquely suited to facilitate (cross-chain) querying and processing of streams, such as the computation of buy/sell orders and optimal order-split and routing to DExs.
+* enable off-chain DAOs
 
 ## Submission Requirements
 
